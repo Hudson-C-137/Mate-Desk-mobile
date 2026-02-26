@@ -1,7 +1,7 @@
 # Mate-Desk-mobile
 
-📱 Salão Master Pro - Mobile Edition
-O Salão Master Pro é um ecossistema de gestão financeira e agendamento projetado especificamente para a dinâmica do profissional moderno. Ele foi otimizado para oferecer uma experiência fluida em telas de toque, transformando qualquer smartphone em uma poderosa central de comando para o seu salão ou estúdio.
+📱  Mate-Desk-mobile - Mobile Edition
+O  Mate-Desk-mobile Pro é um ecossistema de gestão financeira e agendamento projetado especificamente para a dinâmica do profissional moderno. Ele foi otimizado para oferecer uma experiência fluida em telas de toque, transformando qualquer smartphone em uma poderosa central de comando para o seu salão ou estúdio.
 
 🌟 Diferenciais para o Uso Mobile:
 🖐️ Design "Thumb-Friendly": Menus e botões dimensionados para fácil alcance com o polegar, garantindo agilidade mesmo durante o atendimento.
